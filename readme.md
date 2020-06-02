@@ -10,7 +10,7 @@ The files that have been uploaded are purely to show the logic and path i took t
 
 ## Usage
 Yet to be defined. I am thinking of building a manager/supervisor management system to monitor staff task and progress in real time.
-Providing information such as productivity ( for example, measured as per money transferred per hour for a stock broker or for customers served for a retail/hospitality chain).
+Providing information such as productivity (for example, measured as per money transferred per hour for a stock broker or for customers served for a retail/hospitality chain).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
